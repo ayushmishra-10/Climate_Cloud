@@ -1,22 +1,17 @@
-<<<<<<< HEAD
 
- <p align="center">
-  View <a href="https://master.d2gxbs6vwhkz68.amplifyapp.com/">Live demo</a>.
- </p>
 
+# ClimateCloud Weather App - ReactJS Projects by AyushM
+
+
+[Open Weather APIs](https://openweathermap.org/)
+
+https://openweathermap.org/current
 ## Setup
 
 ```
 npm i && npm start
 ```
 =======
-# ClimateCloud Weather App - ReactJS Projects by AyushM
-
-![](weather.gif)
-
-[Open Weather APIs](https://openweathermap.org/)
-
-https://openweathermap.org/current
 
 ### API Info
 
@@ -34,4 +29,4 @@ https://openweathermap.org/current
 
 
 
->>>>>>> b2e6802ffecac6b4e1268f6e6cc46c3adf29ce5c
+
