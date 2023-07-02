@@ -1,6 +1,6 @@
 
 
-# ClimateCloud Weather App - ReactJS Projects by AyushM
+# ClimateCloud Weather App - ReactJS Projects by Ayush Mishra
 
 
 [Open Weather APIs](https://openweathermap.org/)
